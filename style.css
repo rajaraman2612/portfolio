@@ -1,0 +1,26 @@
+.top{
+	background-color: #87A799;
+	font-family: " comic sans";
+}
+.container{
+	width: 100%;
+}
+.button{
+	background-color: #F16EBB ;
+
+}
+.bottom{
+	background-color:#87A799;
+
+}
+.images:hover{
+	cursor: grab/pointer;
+}
+.row{
+	align-content: left;
+	
+}
+.h3{
+	color:black;
+}
+
